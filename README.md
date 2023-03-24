@@ -3,7 +3,7 @@ A basic substitution cipher used by Danish jewelers to obfuscate prices on excha
 
 ## How it works
 Each number is substituted for the corresponding letter
-| G | U | L | D | H | J | E | R | T | E |
+| G | U | L | D | H | J | Æ | R | T | E |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 |
 
