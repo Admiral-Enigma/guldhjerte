@@ -10,7 +10,7 @@ export default function Home() {
   const [price, setPrice] = useState('')
   const [goldheart, setGoldheart] = useState('')
 
-  const replace = 'EGULDHJERT'.split('')
+  const replace = 'EGULDHJÆRT'.split('')
 
   const priceChange = (e: ChangeEvent<HTMLInputElement>) => {
     setPrice(e.target.value)
